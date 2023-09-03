@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-eltablawy62" alt="mahmoud-eltablawy62" /></a> </p>
 
-- 🔭 I’m currently working at **mvc**
+- 🔭 I’m currently working at **WebApi**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-el-tablawy-282900265/](https://www.linkedin.com/in/ziad-m-fathy-276359160/)
 
-- 💬 Ask me about **c#,sql_server,liNQ,entityFrameWork**
+- 💬 Ask me about **C#,Sql_Server,LiNQ,EntityFrameWork,MVC**
 
 - 📫 How to reach me **mahmoudeltablawy1@gmail.com**
 
