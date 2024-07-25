@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-el-tablawy-282900265/](https://www.linkedin.com/in/mahmoud-eltablawy-282900265/)
 
-- 💬 Ask me about **C#, OOP , Solid_Principles , Sql_Server , LiNQ , EntityFrameWork , MVC , WebApi , Repository Pattern With Unit Of Work , JWT , Signal_R ,MimeKit , MailKit**
+- 💬 Ask me about **C#, OOP , Solid_Principles , Sql_Server , LiNQ , EntityFrameWork , MVC , WebApi , Repository Pattern With Unit Of Work , JWT , Signal_R ,MimeKit , MailKit ,  JQuary**
 
 - 📫 How to reach me **mahmoudeltablawy1@gmail.com**
 
